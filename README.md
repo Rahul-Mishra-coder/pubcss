@@ -59,7 +59,7 @@ References are also numbered. Be sure to assign them unique IDs.
 <cite id="nicole">Nicole. 2015. Title of paper. <em>Journal</em>, 4(3), 1-10.</cite>
 ```
 
-Citations to the references make use of these IDs.
+Citations to the references make use of these ID's.
 
 ```html
 <a href="#nicole"></a>
